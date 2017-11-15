@@ -7,6 +7,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FCL", "FCL\FCL.csproj", "{2
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FCL.DataLoader", "FCL.DataLoader\FCL.DataLoader.csproj", "{3DD83121-610E-4673-BA10-6606CF8E358A}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SQL", "SQL", "{D702A085-C536-49CA-86DF-A9CF0E6559D6}"
+	ProjectSection(SolutionItems) = preProject
+		SQL\FCL2.DDL.sql = SQL\FCL2.DDL.sql
+		SQL\FCL2.DOWN.sql = SQL\FCL2.DOWN.sql
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
