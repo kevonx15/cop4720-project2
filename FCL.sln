@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27004.2008
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FCL", "FCL\FCL.csproj", "{26AAEC43-01A9-4752-9316-272E0BD62BFE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FCL.DataLoader", "FCL.DataLoader\FCL.DataLoader.csproj", "{3DD83121-610E-4673-BA10-6606CF8E358A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{26AAEC43-01A9-4752-9316-272E0BD62BFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{26AAEC43-01A9-4752-9316-272E0BD62BFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{26AAEC43-01A9-4752-9316-272E0BD62BFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DD83121-610E-4673-BA10-6606CF8E358A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DD83121-610E-4673-BA10-6606CF8E358A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DD83121-610E-4673-BA10-6606CF8E358A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DD83121-610E-4673-BA10-6606CF8E358A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

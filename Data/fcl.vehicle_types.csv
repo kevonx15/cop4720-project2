@@ -1,0 +1,47 @@
+VTYPE_ID,VMAKE_CODE,VMODEL_CODE,VTRIM_CODE,VTYPE_YEAR,VTYPE_DESC,VTRIM_NAME
+b3056dbc-d3bc-444e-979f-fa67840c8efe,honda,pilot,lx,2017,2017 Honda Pilot LX,Honda Pilot LX
+4dcd46fb-0ad8-4ce9-8580-ac2d9ada5deb,honda,pilot,lx,2016,2016 Honda Pilot LX,Honda Pilot LX
+2921fff3-baaa-4ae8-b878-5e8cbeb23689,honda,pilot,lx,2015,2015 Honda Pilot LX,Honda Pilot LX
+a60db31b-de01-4c90-881d-cd944a0c051d,honda,pilot,ex,2017,2017 Honda Pilot EX,Honda Pilot EX
+4af7999d-8dbd-41b8-8f35-9596e0346cdd,honda,pilot,ex,2016,2016 Honda Pilot EX,Honda Pilot EX
+ebf8cd06-7cf4-4695-ab94-997ddaf82098,honda,pilot,ex,2015,2015 Honda Pilot EX,Honda Pilot EX
+e62c0800-ca50-46d3-a673-c3bc2196e3e8,honda,accord,lx,2017,2017 Honda Accord LX,Honda Accord LX
+8cc93de9-69e9-447f-93a3-e5c5dd8134fb,honda,accord,lx,2016,2016 Honda Accord LX,Honda Accord LX
+edef0fe1-dd1e-4e20-8361-abbbaec39b09,honda,accord,lx,2015,2015 Honda Accord LX,Honda Accord LX
+33a8ca7b-7db9-430d-a8e5-aa129d3ec311,honda,accord,ex,2017,2017 Honda Accord EX,Honda Accord EX
+8c1e666c-2576-4e76-9ff5-d417ce42b522,honda,accord,ex,2016,2016 Honda Accord EX,Honda Accord EX
+29ba7da5-72e4-4ac5-926d-5fda34786fec,honda,accord,ex,2015,2015 Honda Accord EX,Honda Accord EX
+1f9f4cfc-9b14-4679-af99-ecc117cc0ea5,honda,civic,lx,2017,2017 Honda Civic LX,Honda Civic LX
+37c85043-9dab-459d-8db4-cea97a473bca,honda,civic,lx,2016,2016 Honda Civic LX,Honda Civic LX
+06628253-5ca3-4f05-9801-8f457cbf4593,honda,civic,lx,2015,2015 Honda Civic LX,Honda Civic LX
+dab295a7-ab41-48cc-940d-b989af9659a8,honda,civic,ex,2017,2017 Honda Civic EX,Honda Civic EX
+b5ea6f0b-83e7-4864-9ec3-a2bee7913be7,honda,civic,ex,2016,2016 Honda Civic EX,Honda Civic EX
+9f975173-252a-4654-920e-80d92094f2a1,honda,civic,ex,2015,2015 Honda Civic EX,Honda Civic EX
+904e7717-6b76-4d92-8425-67003c4682ae,toyota,tacoma,sr,2017,2017 Toyota Tacoma SR,Toyota Tacoma SR
+97b16102-b534-45db-9c40-36a7d14a9cf5,toyota,tacoma,sr,2016,2016 Toyota Tacoma SR,Toyota Tacoma SR
+c636b805-5efd-494d-acf3-998053eb6430,toyota,tacoma,ltd,2017,2017 Toyota Tacoma LTD,Toyota Tacoma LTD
+9022e2b3-e105-432e-8295-966c8d5c41b3,toyota,tacoma,ltd,2016,2016 Toyota Tacoma LTD,Toyota Tacoma LTD
+2a726957-5a27-4756-99e7-a54fd9e21d45,toyota,tacoma,trd_offroad,2017,2017 Toyota Tacoma TRD Off Road,Toyota Tacoma TRD Off Road
+34e474d7-e15b-40cd-8046-ef260de0f782,toyota,tacoma,trd_offroad,2016,2016 Toyota Tacoma TRD Off Road,Toyota Tacoma TRD Off Road
+4eda2460-983c-4d94-8833-c05ca722ea49,toyota,tacoma,trd_sport,2017,2017 Toyota Tacoma TRD Sport,Toyota Tacoma TRD Sport
+e3094350-913f-4299-ad93-af6d2090109e,toyota,tacoma,trd_sport,2016,2016 Toyota Tacoma TRD Sport,Toyota Tacoma TRD Sport
+aac986ba-ae8e-4734-ab77-5ad4b4fb2de6,toyota,prius,one,2017,2017 Toyota Prius One,Toyota Prius One
+37bd8baf-91bc-450e-860d-37bf6b6cf131,toyota,prius,one,2016,2016 Toyota Prius One,Toyota Prius One
+8f0571a4-d0f7-4035-b51f-39c0f44800fc,toyota,prius,two,2017,2017 Toyota Prius Two,Toyota Prius Two
+60304890-5615-4609-84ab-c35b7fcf09bc,toyota,prius,two,2016,2016 Toyota Prius Two,Toyota Prius Two
+3bb93fa4-b6ea-4a35-bf5b-9c5d7d820e1d,ford,explorer,xl,2017,2017 Ford Explorer XL,Ford Explorer XL
+77596c28-516d-41fa-8cfa-1efd1415e7f1,ford,explorer,xl,2016,2016 Ford Explorer XL,Ford Explorer XL
+bf8954e0-a9c2-4165-921c-7df84261656e,ford,explorer,xlt,2017,2017 Ford Explorer XLT,Ford Explorer XLT
+61a24337-571e-4d58-bdc2-270c661ac860,ford,explorer,xlt,2016,2016 Ford Explorer XLT,Ford Explorer XLT
+68847a8e-8b0c-4683-8990-e0ce7e7b61ff,chevrolet,silverado,ls,2017,2017 Chevy Silverado LS,Chevy Silverado LS
+ce1b73fb-6b79-4321-83a9-f316c676809e,chevrolet,silverado,ls,2016,2016 Chevy Silverado LS,Chevy Silverado LS
+9e8d71b2-54e7-43dc-b595-67c79947d7fb,chevrolet,silverado,lt,2017,2017 Chevy Silverado LT,Chevy Silverado LT
+6d2a7713-0c28-4603-9c27-1434522521f3,chevrolet,silverado,lt,2016,2016 Chevy Silverado LT,Chevy Silverado LT
+0e58daca-edf3-4bc1-b339-bb61628f5690,ford,f150,xl,2017,2017 Ford F-150 XL,Ford F-150 XL
+f55ac691-201a-4c83-81d7-cf1d283a29cb,ford,f150,xl,2016,2016 Ford F-150 XL,Ford F-150 XL
+088bbd23-3d3b-4f55-a6b4-d85127c8b527,ford,f150,xlt,2017,2017 Ford F-150 XLT,Ford F-150 XLT
+3473eaf9-e1ba-4cff-85a4-6ed1e53eb49d,ford,f150,xlt,2016,2016 Ford F-150 XLT,Ford F-150 XLT
+1b1d24cf-c0f2-4d4c-95a9-1552c1eaeba4,chevrolet,tahoe,ls,2017,2017 Chevy Tahoe LS,Chevy Tahoe LS
+77bea3c9-7fb3-44ae-9fa0-da04e8d7c0c6,chevrolet,tahoe,ls,2016,2016 Chevy Tahoe LS,Chevy Tahoe LS
+729cb212-ee92-49d3-957b-6b844a6f9721,chevrolet,tahoe,lt,2017,2017 Chevy Tahoe LT,Chevy Tahoe LT
+9d0b27fb-f245-43ab-8025-580faa0e1338,chevrolet,tahoe,lt,2016,2016 Chevy Tahoe LT,Chevy Tahoe LT

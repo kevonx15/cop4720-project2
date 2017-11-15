@@ -1,0 +1,21 @@
+VMAKE_CODE,VMODEL_CODE,VTRIM_CODE,VTRIM_NAME,VTRIM_DESC
+honda,pilot,lx,LX,Honda Pilot LX
+honda,pilot,ex,EX,Honda Pilot EX
+honda,accord,lx,LX,Honda Accord LX
+honda,accord,ex,EX,Honda Accord EX
+honda,civic,lx,LX,Honda Civic LX
+honda,civic,ex,EX,Honda Civic EX
+toyota,tacoma,sr,SR,Toyota Tacoma SR
+toyota,tacoma,ltd,LTD,Toyota Tacoma LTD
+toyota,tacoma,trd_offroad,TRD Off Road,Toyota Tacoma TRD Off Road
+toyota,tacoma,trd_sport,TRD Sport,Toyota Tacoma TRD Sport
+toyota,prius,one,One,Toyota Prius One
+toyota,prius,two,Two,Toyota Prius Two
+ford,explorer,xl,XL,Ford Explorer XL
+ford,explorer,xlt,XLT,Ford Explorer XLT
+chevrolet,silverado,ls,LS,Chevy Silverado LS
+chevrolet,silverado,lt,LT,Chevy Silverado LT
+ford,f150,xl,XL,Ford F-150 XL
+ford,f150,xlt,XLT,Ford F-150 XLT
+chevrolet,tahoe,ls,LS,Chevy Tahoe LS
+chevrolet,tahoe,lt,LT,Chevy Tahoe LT
