@@ -30,7 +30,7 @@ VALUES(@mech_fname, @mech_lname)
                 {
                     var mechanic = new Mechanic
                     {
-                        Id = reader.GetInt32(0),
+                        Id = reader.GetGuid(0),
                         FirstName = reader.GetString(1),
                         LastName = reader.GetString(2)
                     };
